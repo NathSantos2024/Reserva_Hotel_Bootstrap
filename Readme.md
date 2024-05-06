@@ -27,7 +27,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corr
 
 ## Autor
 
-Este formulário de reserva de hotel foi desenvolvido por [Nath Santos].
+Este formulário de reserva de hotel foi desenvolvido por Nathalia Santos.
 
 ## Licença
 
